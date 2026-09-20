@@ -13,8 +13,8 @@ library(DemoDecomp)
 library(janitor)
 library(paletteer)
 library(ggtext)
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 
 cause_names<-c("1"="50/50 cancer", "2"="50/50 other","3"="not avoidable cancer",
                "4"="not avoidable other","5"="preventable cancer",
