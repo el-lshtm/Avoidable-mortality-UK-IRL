@@ -9,8 +9,8 @@ library(ggplot2)
 library(rio)
 library(HMDHFDplus)
 
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 
 #importing m and f lifetables for each country then joining them
 
