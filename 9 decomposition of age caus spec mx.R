@@ -14,8 +14,8 @@ library(HMDHFDplus)
 library(DemoDecomp)
 library(janitor)
 library(paletteer)
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 age_causemx <- import(file = "data/NEWage_causemx.csv")
 
 ##first need to make age and cause specific mort rates wide format
