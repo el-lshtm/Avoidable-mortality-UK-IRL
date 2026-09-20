@@ -25,8 +25,8 @@ data2022 <- data2022 %>% mutate(age_group =
                                          "65-69" = "65", "70-74" = "70", "75-79" = "75", "80-84" = "80", ">85" = "85"))
 
 
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 
 
 ##making country labels
