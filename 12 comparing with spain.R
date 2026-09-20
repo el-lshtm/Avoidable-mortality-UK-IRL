@@ -11,8 +11,8 @@ library(HMDHFDplus)
 library(DemoDecomp)
 library(janitor)
 library(paletteer)
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 ##Spain - 83.1 le at 0 in 2022
 
 ####importing lt data to calculate average years lived between 0 and 75
