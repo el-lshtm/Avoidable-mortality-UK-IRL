@@ -9,8 +9,8 @@ library(rio)
 library(gridExtra)
 library(HMDHFDplus)
 
-myHMDusername <- "eleanor.lucas1@student.lshtm.ac.uk"
-myHMDpassword <- "CYt$d3fR5_XQ8ih"
+myHMDusername <- "insert-user"
+myHMDpassword <- "insert-password"
 
 
 ##making country labels
